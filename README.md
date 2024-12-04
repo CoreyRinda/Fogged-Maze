@@ -1,0 +1,1 @@
+This project takes a maze input from a text file and then tries to traverse the maze as if it was fogged. It uses the A* path finding algorithm to traverse the maze within 10 times the blank space iterations.
